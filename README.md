@@ -19,7 +19,7 @@ Monthly average late aircraft delay by reporting airline for the given year.
 NOTE: Year range should be between 2010 and 2020
 
 Expected Output
-Below is the expected result from the lab. Our dashboard application consists of three components:
+Our dashboard application consists of three components:
 
 Title of the application
 Component to enter input year
