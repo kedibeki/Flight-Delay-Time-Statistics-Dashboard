@@ -8,7 +8,7 @@ Analyze flight delays in a dashboard.
 <img src="https://github.com/kedibeki/Flight-Delay-Time-Statistics-Dashboard/blob/main/Flight%20Delay%20Time%20Statistics%20Dashboard.jpg" alt=""/>
 </p>
 
-https://kedirnasir10-8050.theiadocker-2-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai
+[Click On Here To Visit My DashBoard](https://kedirnasir10-8050.theiadocker-2-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai)
 
 Dashboard Components
 Monthly average carrier delay by reporting airline for the given year.
